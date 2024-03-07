@@ -1,7 +1,25 @@
-### Hi there 👋
+<h1>Hi, I'm Erik!  <a href="https://www.linkedin.com/in/erik-daniels-3281255b/">Cybersecurity Professional</a>
+
+<h2>👨‍💻Cybersecurity Projects:</h2>
+
+
+  - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+
+
+<h2>Certificates</h2>
+
+CompTia Security +
+
+JumpCloud Core
+
+Lean Six Sigma
+
+
+
+
 
 <!--
-**ErikDaniels1/ErikDaniels1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,4 +31,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
